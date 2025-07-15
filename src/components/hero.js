@@ -7,7 +7,7 @@ export function createHero() {
           <p>Legion AI's advanced data cleaning engine automatically eliminates impossible values, standardizes formats, and fixes missing data with unprecedented accuracy and speed.</p>
           <div class="hero-buttons">
             <a href="#" class="cta-button">
-              Start Free Trial
+              Join Waitlist
               <span>→</span>
             </a>
             <a href="#demo" class="secondary-button">
